@@ -20,7 +20,7 @@
     "MODAL_DEFAULT": "Biztos hogy ezt akarod? Élni fogsz a következményekkel.",
     "REMOVE_PROMPT": "El akarod távolítani ezt a plugint?",
     "DELETE_DISCLAIMER": "{} minden adatja el lesz törölve, és azt vissza nem lehet hozni.",
-    "PLUGIN_NOT_FOUND": "{} nem talált",
+    "PLUGIN_NOT_FOUND": "{} nem található",
     "PLUGIN_LOADED": "{} már be van töltve",
     "PLUGIN_NOT_LOADED": "{} nincs betöltve",
     "NO_200": "Plugin nem küld 200-at",
@@ -28,5 +28,7 @@
     "NO_PARSE": "Plugin manifeszt nem olvasható: {}",
     "INSTALL_PROMPT": "Le akarod tölteni ezt a plugint?",
     "CAN_BE_DANGEROUS": "Cumcord pluginok kódot futtathatnak a gépedek, és lehet hogy veszélyesek. Csak akkor erősítse meg ha bízik `{}` pluginjaiban.",
-    "BY": "{0}, {1} által"
+    "BY": "{0}, {1} által",
+    "TOGGLE_UPDATES": "Frissítések ki/bekapcsolása",
+    "OPEN_SETTINGS": "Beállítások"
 }
